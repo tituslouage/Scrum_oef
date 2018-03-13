@@ -1,0 +1,75 @@
+body {
+    margin:0; padding: 0;
+}
+
+header {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: dimgray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.searchbar {
+    margin-top: 65px;
+    margin-bottom: 60px;
+    background-color: #2B2A2A;
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    display: relative;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+input[type=text] {
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    width: 81%;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.filter {
+    width: 45%;
+    text-align: center;
+    display: block;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 55px;
+}
+
+.filter a {
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    display: inline-block;
+    margin-bottom: 0px;
+    color: #2B2A2A;
+    text-decoration: none;
+}
+
+.filter a:hover {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: dimgray;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
