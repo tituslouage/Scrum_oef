@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/.idea/Scrum_oef.iml" filepath="$PROJECT_DIR$/.idea/Scrum_oef.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/git.iml" filepath="$PROJECT_DIR$/.idea/git.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
